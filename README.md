@@ -58,3 +58,22 @@ the flag was  :<b> CraCKInGJ0b-67189 </br>
 *****************************************************************************************************************************************************************
 </br>
 <h2 align="center">Fe04</h2>
+
+it was an .log file and i tried the first thing I could think of </br>
+
+using the command strings with grep flag </br>
+
+so id did that </br>
+
+```bash
+strings access.log |grep flag
+```
+</br>
+and that was it the flag appered  </br>
+
+![flag](https://user-images.githubusercontent.com/33530187/99196830-c1fd2780-275c-11eb-8e9f-bcc4aaa416bf.png)
+</br>
+the Flag was: <b> nicESearChIng01812</b> 
+*****************************************************************************************************************************************************************
+</br>
+<h2 align="center">FM01</h2>
