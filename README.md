@@ -1,5 +1,5 @@
 # wicsme2020-writeups
-<h1>Digital-Forensic</h1> 
-<h3>Fe01</h3>
+##Digital-Forensic</h1> 
+###Fe01</h3>
 It was an easy one there was a .rtf file when i opened it i found: </br>
-![fe01](https://github.com/MM0XX/wicsme2020-writeups/blob/main/fe01/1.png?raw=true "1.png")
+![1](https://user-images.githubusercontent.com/33530187/99195681-2c11ce80-2755-11eb-9103-01f23bf3878b.png)
