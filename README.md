@@ -78,14 +78,17 @@ the Flag was: <b> nicESearChIng01812</b>
 </br>
 <h2 align="center">FM01</h2>
 It was a wierd file i used file to idintfy it but it showed Data file </br>
+
 ![1](https://user-images.githubusercontent.com/33530187/99196983-7a2ad000-275d-11eb-80bf-e3c125484c95.png)
 </br>
 so i opend it on hex editor to see the header </br>
+
 ![2](https://user-images.githubusercontent.com/33530187/99197077-2c629780-275e-11eb-9e39-5e9bb123adb8.png)
 
 </br>
 the Hex was similar to a binary file but the header was wrong</br>
 So i fixed it by adding the right header</br>
+
 ![the fixed header](https://user-images.githubusercontent.com/33530187/99197901-51a5d480-2763-11eb-997e-f2cfac8f87df.png)
 </br>
 and by using 
@@ -94,8 +97,12 @@ and by using
 ```bash
 chmod +x file| ./file
 ```
+
 </b>
-![flag](https://user-images.githubusercontent.com/33530187/99197986-bbbe7980-2763-11eb-858f-6b6b2d070dee.png)</br>
+
+![flag](https://user-images.githubusercontent.com/33530187/99197986-bbbe7980-2763-11eb-858f-6b6b2d070dee.png)
+
+</br>
 
 
 *****************************************************************************************************************************************************************
