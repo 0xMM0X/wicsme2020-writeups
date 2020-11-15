@@ -3,7 +3,7 @@
  
  
 *****************************************************************************************************************************************************************
-<h2 align ="center ">Fe01 (<a herf="https://github.com/MM0XX/wicsme2020-writeups/tree/main/fe01" >Challenge</a>)</h2> 
+<h2 align ="center ">Fe01 </h2> 
 </br>
 It was an easy one there was a .rtf file when i opened it using ("libre office Writer") i found: </br></br>
 
