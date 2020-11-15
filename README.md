@@ -37,4 +37,24 @@ so I easily selected the hole file and found the flag:</br>
 </br>And the flag was :<b> n1CeReDaCTION-sureLYNot911081</b>
 
 *****************************************************************************************************************************************************************
+</br>
+<h2 align="center">Fe03</h2>
+when i unzipped the challenge there was a flag.zip password protected</br>
+so I knew it's a simple password creaking Challenge </br>
+using zip2john I got the hash  </br>
+![1](https://user-images.githubusercontent.com/33530187/99196407-35ea0080-275a-11eb-90b9-10b8318d5f7c.png)
+</br>
+Then by using Rockyou.txt to brute force The password it sucsseded</br> 
+![johend](https://user-images.githubusercontent.com/33530187/99196524-d9d3ac00-275a-11eb-8496-6344bc0cc74b.png)
+</br>
 
+and the password was :
+<b>q1w2e3r4t5y6</b>
+by using this passsowrd i was able to extract the text file :</br>
+![flag](https://user-images.githubusercontent.com/33530187/99196624-988fcc00-275b-11eb-9d4b-25effcf52bb9.png)
+</br>
+
+the flag was  :<b> CraCKInGJ0b-67189 </br>
+*****************************************************************************************************************************************************************
+</br>
+<h2 align="center">Fe04</h2>
