@@ -1,5 +1,5 @@
 # wicsme2020-writeups
-<h1 style = "text-alignment : Center;">Digital-Forensic-Challenges </h1></br>
+<h1 align="center">Digital-Forensic-Challenges </h1></br>
 </br>
 <h3>Fe01</h3>
 </br>
