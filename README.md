@@ -104,9 +104,38 @@ chmod +x file| ./file
 
 </br>
 
+*****************************************************************************************************************************************************************
+
+</br>
+<h3>
+and sadly we couldn't solve The last 2 Forensics challenges (FM02 , FH01)
+</h3>
+
+*****************************************************************************************************************************************************************
+
+
+<h1 align="center">Binary-Exploit-Challenges </h1>
 
 *****************************************************************************************************************************************************************
 </br>
-<h3>
-and sadly we couldn't solve The last 2 challenges (FM02 , FH01)
-</h3>
+<h2 align="center">Be01</h2>
+
+the first thing i tried is running the program </br>
+it asked for a password so i didn't know what to do but using ("strings") as usual</br>
+
+![1](https://user-images.githubusercontent.com/33530187/99198574-9469ab80-2767-11eb-8999-9fff5b32f9b9.png)
+
+</br>
+
+
+i saw a wired text :<b> this_isNOT-a_PasswORD-ToGuess-Easily</b>
+so i tried using it as the password and the flag poped </b>
+
+![flag](https://user-images.githubusercontent.com/33530187/99198637-f1fdf800-2767-11eb-9f63-7745eddbf05e.png)
+
+</b>
+and the Flag was : <b> sImpLEASCiiSTriNGS-32910</b>
+
+*****************************************************************************************************************************************************************
+</br>
+ 
