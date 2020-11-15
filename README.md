@@ -1,4 +1,4 @@
-# wicsme2020-writeups
+# wicsme2020-writeups (0xL4ugh)
 <h1 align="center">Digital-Forensic-Challenges </h1>   
  
  
@@ -40,11 +40,11 @@ so I easily selected the hole file and found the flag:</br>
 </br>
 <h2 align="center">Fe03</h2>
 when i unzipped the challenge there was a flag.zip password protected</br>
-so I knew it's a simple password creaking Challenge </br>
+so I knew it's a simple password cracking Challenge </br>
 using zip2john I got the hash  </br>
 ![1](https://user-images.githubusercontent.com/33530187/99196407-35ea0080-275a-11eb-90b9-10b8318d5f7c.png)
 </br>
-Then by using Rockyou.txt to brute force The password it sucsseded</br> 
+Then by using Rockyou.txt to brute force The password it succeeded</br> 
 ![johend](https://user-images.githubusercontent.com/33530187/99196524-d9d3ac00-275a-11eb-8496-6344bc0cc74b.png)
 </br>
 
@@ -63,13 +63,13 @@ it was an .log file So i tried the first thing I could think of </br>
 
 using the command strings with grep flag </br>
 
-so id did that </br>
+so I did that </br>
 
 ```bash
 strings access.log |grep flag
 ```
 </br>
-and that was it the flag appered  </br>
+and that was it the flag appeared  </br>
 
 ![flag](https://user-images.githubusercontent.com/33530187/99196830-c1fd2780-275c-11eb-8e9f-bcc4aaa416bf.png)
 </br>
@@ -77,7 +77,7 @@ the Flag was: <b> nicESearChIng01812</b>
 *****************************************************************************************************************************************************************
 </br>
 <h2 align="center">FM01</h2>
-It was a wierd file i used file to idintfy it but it showed Data file </br>
+It was a weird file i used file to idintfy it but it showed Data file </br>
 
 ![1](https://user-images.githubusercontent.com/33530187/99196983-7a2ad000-275d-11eb-80bf-e3c125484c95.png)
 </br>
