@@ -139,3 +139,4 @@ and the Flag was : <b> sImpLEASCiiSTriNGS-32910</b>
 *****************************************************************************************************************************************************************
 </br>
  
+ For [Web-Writeups](https://medium.com/@abdelhameedghazy/wics-and-sans-bootup-ctf-web-challenges-writeup-1eaef85eb36a)
